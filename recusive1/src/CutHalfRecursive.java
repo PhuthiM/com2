@@ -18,7 +18,3 @@ public class CutHalfRecursive {
         System.out.println(cutHalf(str));
     }
 }
-/*
-ABCDEFGHIJKLMNOP
- +""+ cutHalf(s.substring(n , s.length() - 1)
- */
